@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		405886FA215AB12900EF6A3C /* MapMarkerWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 405886F9215AB12900EF6A3C /* MapMarkerWindow.swift */; };
-		40E6151F215BF949008896DE /* MapMarkerWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 40E6151E215BF8B2008896DE /* MapMarkerWindow.xib */; };
+		406221BC228640C800C693D4 /* MapMarkerWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 406221BB228640C800C693D4 /* MapMarkerWindow.xib */; };
 		40E63A54214ABFEC009FBEAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E63A53214ABFEC009FBEAD /* AppDelegate.swift */; };
 		40E63A56214ABFEC009FBEAD /* AppleMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40E63A55214ABFEC009FBEAD /* AppleMapViewController.swift */; };
 		40E63A59214ABFEC009FBEAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40E63A57214ABFEC009FBEAD /* Main.storyboard */; };
@@ -27,7 +27,7 @@
 
 /* Begin PBXFileReference section */
 		405886F9215AB12900EF6A3C /* MapMarkerWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapMarkerWindow.swift; sourceTree = "<group>"; };
-		40E6151E215BF8B2008896DE /* MapMarkerWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MapMarkerWindow.xib; path = "/Users/cristian/Desktop/Swift Projects/TurnToTechMap/TurnToTechMap/MapMarkerWindow.xib"; sourceTree = "<absolute>"; };
+		406221BB228640C800C693D4 /* MapMarkerWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MapMarkerWindow.xib; sourceTree = "<group>"; };
 		40E63A50214ABFEC009FBEAD /* TurnToTechMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TurnToTechMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		40E63A53214ABFEC009FBEAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		40E63A55214ABFEC009FBEAD /* AppleMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleMapViewController.swift; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 				40E63A5A214ABFEE009FBEAD /* Assets.xcassets */,
 				40E63A77215178F2009FBEAD /* GoogleMapViewController.swift */,
 				405886F9215AB12900EF6A3C /* MapMarkerWindow.swift */,
-				40E6151E215BF8B2008896DE /* MapMarkerWindow.xib */,
+				406221BB228640C800C693D4 /* MapMarkerWindow.xib */,
 				40E63A5C214ABFEE009FBEAD /* LaunchScreen.storyboard */,
 				40E63A5F214ABFEE009FBEAD /* Info.plist */,
 			);
@@ -178,7 +178,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				40E6151F215BF949008896DE /* MapMarkerWindow.xib in Resources */,
+				406221BC228640C800C693D4 /* MapMarkerWindow.xib in Resources */,
 				40E63A5E214ABFEE009FBEAD /* LaunchScreen.storyboard in Resources */,
 				40E63A5B214ABFEE009FBEAD /* Assets.xcassets in Resources */,
 				40E63A59214ABFEC009FBEAD /* Main.storyboard in Resources */,
