@@ -1,0 +1,6 @@
+framework module Pods_TurnToTechMap {
+  umbrella header "Pods-TurnToTechMap-umbrella.h"
+
+  export *
+  module * { export * }
+}
